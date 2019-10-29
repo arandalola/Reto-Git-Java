@@ -18,6 +18,17 @@ public class Main{
         System.out.println("El usuario se llama " + nombre + " tiene " + edad + " años, su peso es " + newpeso + " kg. y su altura es de " + newaltura + " centímetros.");
 
 //RETO 3
+        String stringToint="100";
+        int convertido=Integer.parseInt(stringToint);
+
+        System.out.println("Cadena real:" + stringToint);
+        System.out.println("Convertido a Int:" + convertido);
+
+        int intTostring=200;
+        String convertido1=String.valueOf(intTostring);
+
+        System.out.println("Cadena real:" + intTostring);
+        System.out.println("Convertido a String:" + convertido1);
 
 //RETO 4
         //Definimos la frase en entrada
