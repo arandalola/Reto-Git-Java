@@ -32,30 +32,29 @@ public class Main{
 
 //RETO 4
         //Definimos la frase en entrada
-        //String frase="";
+        //String frase;
         //Scanner in= new Scanner(System.in);
 
         //Preguntamos sobre la frase
-       // System.out.println("Introduce una frase");
-       // frase=in.nextLine();
+        //System.out.println("Introduce una frase");
+        //frase=in.nextLine();
 
         //Eliminar espacios
         //frase=in.next.trim();
-
-       // System.out.println(frase.replace(oldChar='a', newChar='@'));
+        //System.out.println(frase.replace(oldChar='a', newChar='@'));
 
 //RETO 5
         //Definimos variables
-       // int numUsuario=0;
-       // int numRandom=0;
-      //  Scanner in=new Scanner(Sytem.in);
+        //int numUsuario=0;
+        //int numRandom=0;
+        //Scanner in=new Scanner(Sytem.in);
 
         //Generamos el aleatorio
-       // Random r= new Random();
-      //  numRandom=r.nextInt(11);
+        //Random r= new Random();
+        //numRandom=r.nextInt(11);
 
         //Preguntamos por un número al usuario
-       // System.out.println("Dame un número entre 1 y 10");
+        //System.out.println("Dame un número entre 1 y 10");
 
 //RETO 7
 
